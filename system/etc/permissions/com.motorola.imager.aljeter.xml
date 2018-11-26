@@ -1,0 +1,4 @@
+<permissions>
+   <library name="com.motorola.imager.aljeter"
+       file="/system/framework/com.motorola.imager.aljeter" />
+</permissions>
